@@ -73,3 +73,32 @@ color: #FAFAFA;
 
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.img01{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1282px;
+height: 1433px;
+left: -569px;
+top: 17px;
+
+background: url(20230105_010330.jpg);
+border: 1px solid #2236EA;
+}
+
+.retangulo{
+  /* Rectangle 1 */
+
+
+position: absolute;
+width: 657px;
+height: 881px;
+left: 56px;
+top: 1105px;
+
+background: #B3DAEF;
+mix-blend-mode: normal;
+border-radius: 100px;
+}
