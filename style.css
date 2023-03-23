@@ -91,6 +91,8 @@ border: 1px solid #2236EA;
 .retangulo{
   /* Rectangle 1 */
 
+
+position: absolute;
 width: 657px;
 height: 881px;
 left: 56px;
