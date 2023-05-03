@@ -2,8 +2,8 @@
   position: absolute;
 width: 482px;
 height: 93px;
-left: 822px;
-top: 124px;
+left: 1305px;
+top: 190px;
 
 font-family: 'Inknut Antiqua';
 font-style: normal;
@@ -112,4 +112,19 @@ width: 900px;
 height: 1410px;
 left: 1020px;
 top: 752px;
+}
+
+.img2{
+  box-sizing: border-box;
+
+position: absolute;
+width: 657px;
+height: 851px;
+left: 1193px;
+top: 302px;
+
+background: url(20230105_000351.jpg);
+border: 1px solid #2236EA;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 77px;
 }
